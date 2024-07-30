@@ -1,0 +1,25 @@
+h2 {
+  color: azure;
+  
+}
+
+.div {
+  align-items: center;
+  margin-left: 50%;
+  margin-top: 10%;
+}
+
+h3 {
+  color: aliceblue;
+  margin-left: 5%;
+}
+
+html {
+  color: aliceblue;
+}
+button {
+  margin-left: 40px;
+  width: 90px;
+  border-radius: 10px;
+  
+}
